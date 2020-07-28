@@ -1,0 +1,91 @@
+html, body {
+    margin: -15px;
+}
+#imagem_fundo {
+    background: url("Imagem/fundo-2.jpg");
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-image: cover;
+}
+#Título {
+    color: white ;
+    padding-top: 3%;
+    font-size: 260%;
+   
+}
+#Subtítulo {
+    color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 26%;
+    margin-top: 5% solid white;
+    margin-left: 3% 3% black;
+}
+
+body {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h4 {
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h3 { 
+    color: black;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    text-align: left;
+}
+#Botão-ação {
+    color:white;
+    margin-top: 70px;
+    border: 2px white solid;
+    padding: 15px 15px 15px 15px;
+}
+#Introdução {
+    background-color: #f7f7f7;
+    padding: 20px;
+    padding-top: 20px;
+}
+#centro {
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+    width: 70px;
+}
+#Metas {
+    background-color: white;
+    padding: 20px;
+    padding-top: 20px;
+}
+.ícones {
+    width: 15%;
+    height: 15%;
+}
+.borda {
+    align-items: center;
+    border: 7px gray solid;
+    padding: 2px;
+}
+p {
+    color:black;
+    text-align: unset;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
